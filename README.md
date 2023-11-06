@@ -25,8 +25,9 @@ Developed By: ARSHATHA P
 Register No:212222230012
 import numpy as np
 import math
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 ```
+![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
+
 
 # Output
 
